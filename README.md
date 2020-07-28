@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Folks! 👋
 
 <!--
 **faisal3389/faisal3389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a software and web developer. I have worked a lot with javascript and its gazillions of frameworks.
+- 🌱 I’m currently learning graphql and its state management with React.
+- ⚡ Fun fact: https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
