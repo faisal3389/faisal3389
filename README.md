@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software and web developer. I have worked a lot with javascript and its gazillions of frameworks.
+I’m Faisal. I work at Paypal as a Software Developer. I have worked a lot with javascript and its gazillions of frameworks.
 - 🌱 I’m currently learning graphql and its state management with React.
-- ⚡ Fun fact: https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
+- ⚡ Fun fact that I recently discovered: https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
